@@ -1,4 +1,4 @@
-Paginação
+Paginação thymeleaf
 -------------------------
 https://www.baeldung.com/spring-thymeleaf-pagination
 
