@@ -1,0 +1,28 @@
+Paginação
+-------------------------
+https://www.baeldung.com/spring-thymeleaf-pagination
+
+
+Paginação JPA
+-------------------------
+https://www.baeldung.com/spring-data-jpa-pagination-sorting
+
+
+Consultas
+-------------------------
+https://www.baeldung.com/spring-data-jpa-query
+
+
+Rich Text Editor
+-------------------------
+https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-rich-text-editor
+
+
+Input Mask
+-------------------------
+https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-input-mask
+
+
+Drop Zone Area
+-------------------------
+https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-drop-file-area
