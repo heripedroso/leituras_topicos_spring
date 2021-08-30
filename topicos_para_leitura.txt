@@ -26,3 +26,7 @@ https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-input-mask
 Drop Zone Area
 -------------------------
 https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-drop-file-area
+
+Intranet Design
+-------------------------
+https://www.nngroup.com/articles/intranet-design/
