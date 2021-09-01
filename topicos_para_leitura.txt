@@ -27,6 +27,12 @@ Drop Zone Area
 -------------------------
 https://frontbackend.com/thymeleaf/spring-boot-bootstrap-thymeleaf-drop-file-area
 
+
 Intranet Design
 -------------------------
 https://www.nngroup.com/articles/intranet-design/
+
+
+Intranet Design (Serach page)
+-------------------------
+https://images-platform.99static.com/w6KTXAS4JfKqIfksUF1ehFgMpjI=/0x0:1440x1440/500x500/top/smart/99designs-contests-attachments/112/112423/attachment_112423919
